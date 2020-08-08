@@ -1,0 +1,142 @@
+ html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+} 
+div.disabled {
+    overflow-x: hidden; 
+    overflow-y: scroll; 
+}
+.topnav
+{
+    list-style-type: none;
+    text-align: right;
+    padding: 25px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: darkgrey;
+    text-transform: uppercase;
+    
+}
+.header
+{
+    margin-top: 10px;
+}
+#headerLink
+{
+    color: darkgray;
+}
+.first
+{
+    color:#fff;;
+    background-color: #f37435;
+}
+#navbarNavDropdown
+{
+    height: 25px;
+}
+.nav-link:hover
+{
+    background:#f37435 ;
+}
+
+.slide-show
+{
+    padding:0px;
+}
+.Heading
+{
+    font-size: 45px;
+    color:#f37435;
+    border-bottom: blue solid;
+}
+.aboutus
+{
+    background-image: url(../images/about.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    min-height: min-content;
+    
+}
+.ParaContent
+{
+    background-color:white;
+    padding: 30px 30px 30px 30px;
+    font-size:20px;
+    /* margin-top: 10px; */
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.link
+{
+    color:blue;
+    font-size: 20px;
+}
+.Fabex
+{
+    color:blue;
+}
+.aboutus .advantage a
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+.AdvantageHeading
+{
+    font-size: 45px;
+    color:#f37435;
+    border-bottom: blue solid;
+}
+.h6
+{
+    color:blue;
+}
+.Application
+{
+    background:  url("../images/application.jpg")no-repeat;
+    min-height: min-content;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.ParaContent1
+{
+    padding: 30px 30px 30px 30px;
+    font-size:20px;
+     margin-top: 10px; 
+    font-family: 'Source Sans Pro', sans-serif;
+}
+img
+{
+    max-width: 100%;
+}
+.MajorProject
+{
+    background: #f1f1f1;
+}
+.project
+{
+    border: 2px solid #26538b;
+    padding:10px;
+}
+.card-body
+{
+    background-color: rgb(189, 180, 180);
+    text-align: center;
+}
+.Footer
+{
+    background-color: rgb(27, 27, 56);
+}
+.footerLink li
+{
+   
+    list-style-type: none;
+    display: inline;
+}
+.footerLink a
+{
+    color: white;
+}
+.copyright
+{
+    background: white;
+}
